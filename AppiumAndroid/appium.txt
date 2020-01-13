@@ -2,5 +2,5 @@
 platformName = "Android"
 deviceName = 'VirtualDevice'
 udid = 'emulator-5554'
-app = "/Users/deyvis/Downloads/FasTip.apk"
+app = "../pagefactory-appium/AppiumAndroid/FasTip.apk"
 automationName = 'uiautomator2'
