@@ -1,0 +1,6 @@
+[caps]
+platformName = "Android"
+deviceName = 'VirtualDevice'
+udid = 'emulator-5554'
+app = "/Users/deyvis/Downloads/FasTip.apk"
+automationName = 'uiautomator2'
